@@ -12,4 +12,4 @@ If you are thinking of implementing IoT in your business or home and don't want 
 * [PlatformIO](https://platformio.org/)
 
 ## Libraries
-* [Arduino](https://github.com/Urkdash/urkdash_esp32)
+* [Arduino](https://github.com/Urkdash/urkdash_arduino)
