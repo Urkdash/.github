@@ -1,4 +1,4 @@
-![Urkdash](profile/urkdash_banner.jpg)
+![Urkdash](profile/logoPurpleHorizontalWhiteFont.svg)
 
 # Welcome to Urkdash’s site on GitHub 
 
