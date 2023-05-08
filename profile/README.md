@@ -1,4 +1,4 @@
-![Urkdash](profile/logoPurpleHorizontalWhiteFont.svg)
+![Urkdash](profile/logoPurpleHorizontalDarkBack.jpg)
 
 # Welcome to Urkdash’s site on GitHub 
 
